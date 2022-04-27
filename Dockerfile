@@ -17,4 +17,4 @@ RUN pip install pipenv && \
 
 COPY ./ ./
 
-CMD ["python", "./pubsFromBib.py"]
+CMD ["python", "pubsFromBib.py"]
