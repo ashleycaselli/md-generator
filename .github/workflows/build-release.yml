@@ -2,9 +2,15 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches-ignore:
+      - 'renovate/**'
+    paths-ignore:
+      - 'CHANGELOG.md'
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 permissions:
   contents: read
@@ -13,18 +19,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install Poetry
-      uses: snok/install-poetry@v1
-    - name: Install dependencies
-      run: poetry install
-    - name: Test with pytest
-      run: poetry run pytest tests/
-    - name: Release
-      run: |
-        npm ci
-        npx semantic-release
+      - uses: actions/checkout@v3
+      -
+        name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      -
+        name: Install Poetry
+        uses: snok/install-poetry@v1
+      -
+        name: Install dependencies
+        run: poetry install
+      -
+        name: Test with pytest
+        run: poetry run pytest tests/
+      -
+        name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      -
+        name: Release
+        run: |
+          npm ci
+          npx semantic-release
