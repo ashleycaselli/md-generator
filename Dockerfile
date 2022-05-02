@@ -1,20 +1,17 @@
 FROM python:3.10-slim
 
-WORKDIR /app
-
 LABEL Maintainer="ashleycaselli"
 
-COPY Pipfile* ./
-COPY .env.default ./.env
+ENV POETRY_VERSION=1.0.0
 
-RUN pip install pipenv && \
-  apt-get update && \
-  apt-get install -y --no-install-recommends gcc python3-dev libssl-dev && \
-  pipenv install --deploy --system && \
-  apt-get remove -y gcc python3-dev libssl-dev && \
-  apt-get autoremove -y && \
-  pip uninstall pipenv -y
+RUN pip3 install "poetry==$POETRY_VERSION"
 
-COPY ./ ./
+WORKDIR /app
+COPY pyproject.toml poetry.lock /app/
 
-CMD ["python", "pubsFromBib.py"]
+RUN poetry config virtualenvs.create false
+RUN poetry install --no-dev --no-interaction
+
+COPY src/ /app/
+
+ENTRYPOINT ["python", "md_generator/pubsFromBib.py"]
