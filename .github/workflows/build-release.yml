@@ -12,9 +12,6 @@ env:
   IMAGE_NAME: ${{ github.repository }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-permissions:
-  contents: read
-
 jobs:
   build:
     runs-on: ubuntu-latest
