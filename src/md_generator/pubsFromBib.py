@@ -53,7 +53,7 @@ def html_escape(text):
 
 def generate_md():
     parser = bibtex.Parser()
-    bibdata = parser.parse_file(os.getenv("BIB_FILE"))
+    bibdata = parser.parse_file(str(os.getenv("BIB_FILE")))
 
     for pubsource in publist:
         for bib_id in bibdata.entries:
