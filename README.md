@@ -1,3 +1,5 @@
+[![CI](https://github.com/ashleycaselli/md-generator/actions/workflows/build-release.yml/badge.svg)](https://github.com/ashleycaselli/md-generator/actions/workflows/build-release.yml)
+
 # How to
 
 The Markdown files can be generated with the following
