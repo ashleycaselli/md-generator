@@ -1,3 +1,31 @@
+## [1.0.1](https://github.com/ashleycaselli/md-generator/compare/1.0.0...1.0.1) (2022-09-03)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency python-dotenv to ^0.21.0 ([974d066](https://github.com/ashleycaselli/md-generator/commit/974d066f64c76aab9dd948e26f5795be6fb91b4c))
+
+
+### General maintenance
+
+* **readme:** add CI badge ([174b280](https://github.com/ashleycaselli/md-generator/commit/174b2805195ae223b22303d8540c7e0e0656b839))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-python action to v4 ([5c91e3d](https://github.com/ashleycaselli/md-generator/commit/5c91e3d0dc3b812a14e1d7ff84c457df8b840b17))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.10 ([edd755c](https://github.com/ashleycaselli/md-generator/commit/edd755c679b465d4c14b50b63ec42f30d3f39ef0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.11 ([ff0f48d](https://github.com/ashleycaselli/md-generator/commit/ff0f48d010f718f01e479d72d02e1aaac668be64))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.6 ([9ebb90c](https://github.com/ashleycaselli/md-generator/commit/9ebb90cd8dfa8a4df4477beb0f173e27e2053dc3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.7 ([63c72ff](https://github.com/ashleycaselli/md-generator/commit/63c72ffd2892dc46d9aa3916fad858ca5271aba8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.8 ([af3e6fd](https://github.com/ashleycaselli/md-generator/commit/af3e6fd497e425b650efacdf85916637ab0a9e57))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.9 ([a5c7186](https://github.com/ashleycaselli/md-generator/commit/a5c718639503ffb2d43e131a4c1b3731c687f1a6))
+* **deps:** update docker/login-action action to v2 ([82ebe3d](https://github.com/ashleycaselli/md-generator/commit/82ebe3db1034e7e2ad0cea935c023d320e8b3511))
+* **deps:** update node.js to 16.15 ([edd0c95](https://github.com/ashleycaselli/md-generator/commit/edd0c95122a3aaef8fa06a8e255dcae8f881ae53))
+* **deps:** update node.js to 16.16 ([777f0ba](https://github.com/ashleycaselli/md-generator/commit/777f0ba0bca1799535572567a4e898908a316818))
+* **deps:** update node.js to 16.17 ([c5f4ad6](https://github.com/ashleycaselli/md-generator/commit/c5f4ad6daf347f77eb7734ac46d962d67ad90863))
+* update config for running in PR branches ([5f99b59](https://github.com/ashleycaselli/md-generator/commit/5f99b591f1b4d69eb3ae057440ccf1844ced2191))
+
 ## 1.0.0 (2022-05-02)
 
 
