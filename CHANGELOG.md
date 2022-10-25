@@ -1,3 +1,18 @@
+## [1.0.2](https://github.com/ashleycaselli/md-generator/compare/1.0.1...1.0.2) (2022-10-25)
+
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.12 ([74a6e6d](https://github.com/ashleycaselli/md-generator/commit/74a6e6d6da8119bf3914623a376791a41088ef85))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.13 ([6b49a26](https://github.com/ashleycaselli/md-generator/commit/6b49a264d1f0c4d4a37b2998426cb4816c801250))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.14 ([4108e80](https://github.com/ashleycaselli/md-generator/commit/4108e80f35ba6fc6a929f080c82f88b3b8c59114))
+* **deps:** update node.js to 16.18 ([e0f5ea4](https://github.com/ashleycaselli/md-generator/commit/e0f5ea40118223b05bb65a809c748f7478a9b61f))
+
+
+### Dependency updates
+
+* **core-deps:** update python docker tag to v3.11 ([d865bf1](https://github.com/ashleycaselli/md-generator/commit/d865bf1e725b4a925a212a03c9628ca574194da2))
+
 ## [1.0.1](https://github.com/ashleycaselli/md-generator/compare/1.0.0...1.0.1) (2022-09-03)
 
 
