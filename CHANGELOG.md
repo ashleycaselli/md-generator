@@ -1,3 +1,19 @@
+## [1.0.3](https://github.com/ashleycaselli/md-generator/compare/1.0.2...1.0.3) (2023-03-12)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency python-dotenv to v1 ([e674779](https://github.com/ashleycaselli/md-generator/commit/e67477965e4644a03b73daca82cb8bdf475262c0))
+
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.15 ([f662078](https://github.com/ashleycaselli/md-generator/commit/f6620787bbb01600e4e2f5a6d6c0c261810ac805))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.16 ([a76ef1a](https://github.com/ashleycaselli/md-generator/commit/a76ef1ad89ac7d885213883ae4c623b40224c3f4))
+* **deps:** update node.js to 18.12 ([9e31990](https://github.com/ashleycaselli/md-generator/commit/9e31990026e560cc5af51c1284db4684d258fab1))
+* **deps:** update node.js to 18.15 ([cce7849](https://github.com/ashleycaselli/md-generator/commit/cce7849485e7b371b52217456e67a9b3b1122009))
+* **deps:** update node.js to v18 ([14f5333](https://github.com/ashleycaselli/md-generator/commit/14f5333a6f3d96e50eae4d389604d3343ca97c8a))
+
 ## [1.0.2](https://github.com/ashleycaselli/md-generator/compare/1.0.1...1.0.2) (2022-10-25)
 
 
