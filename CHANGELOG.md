@@ -1,3 +1,15 @@
+## [1.0.7](https://github.com/ashleycaselli/md-generator/compare/1.0.6...1.0.7) (2023-04-09)
+
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.23 ([ee040b7](https://github.com/ashleycaselli/md-generator/commit/ee040b73ffb92ad8b428a27de721424eb8b26e3d))
+
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v7.3.0 ([2845f13](https://github.com/ashleycaselli/md-generator/commit/2845f13f15c0417526752c8941132c149fdf7aa7))
+
 ## [1.0.6](https://github.com/ashleycaselli/md-generator/compare/1.0.5...1.0.6) (2023-04-03)
 
 
