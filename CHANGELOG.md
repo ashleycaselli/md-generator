@@ -1,3 +1,15 @@
+## [1.0.10](https://github.com/ashleycaselli/md-generator/compare/1.0.9...1.0.10) (2023-05-29)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency pandas to v2.0.2 ([aebf283](https://github.com/ashleycaselli/md-generator/commit/aebf283dd49e4a17b08302f472377c48a5872eb9))
+
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.26 ([592ed61](https://github.com/ashleycaselli/md-generator/commit/592ed61e5bdc8781aaba063fcffb4c1c1a904bd3))
+
 ## [1.0.9](https://github.com/ashleycaselli/md-generator/compare/1.0.8...1.0.9) (2023-04-24)
 
 
