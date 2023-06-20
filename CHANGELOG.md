@@ -1,3 +1,17 @@
+## [1.0.12](https://github.com/ashleycaselli/md-generator/compare/1.0.11...1.0.12) (2023-06-20)
+
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.35 ([95d3615](https://github.com/ashleycaselli/md-generator/commit/95d3615ed74964690db34574d8a13bb5461d4452))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.37 ([65fabcf](https://github.com/ashleycaselli/md-generator/commit/65fabcff46a4987771394d100cb9a33b5d85ef07))
+* set poetry version to 1.5.1 ([579ec01](https://github.com/ashleycaselli/md-generator/commit/579ec0172c3f2819372e31b754ba5062fd685f2a))
+
+
+### Dependency updates
+
+* **core-deps:** update poetry.lock ([3a72350](https://github.com/ashleycaselli/md-generator/commit/3a723506f53a805d9cef5b292f8363cb64355fcb))
+
 ## [1.0.11](https://github.com/ashleycaselli/md-generator/compare/1.0.10...1.0.11) (2023-06-11)
 
 
