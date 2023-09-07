@@ -1,3 +1,15 @@
+## [1.0.17](https://github.com/ashleycaselli/md-generator/compare/1.0.16...1.0.17) (2023-09-07)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v7.4.2 ([8cea71d](https://github.com/ashleycaselli/md-generator/commit/8cea71d1b16c657fb04f5f57c6d3ded322578176))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4 ([90a0d0c](https://github.com/ashleycaselli/md-generator/commit/90a0d0c8d4b5b1edfec3c22f22b5525d9aa0aae7))
+
 ## [1.0.16](https://github.com/ashleycaselli/md-generator/compare/1.0.15...1.0.16) (2023-09-02)
 
 
