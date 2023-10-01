@@ -1,3 +1,23 @@
+## [1.0.18](https://github.com/ashleycaselli/md-generator/compare/1.0.17...1.0.18) (2023-10-01)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency pandas to v2.1.1 ([f4ffcc1](https://github.com/ashleycaselli/md-generator/commit/f4ffcc16bba42c662d323ec829fd1aa754f3fef2))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to 8ade135 ([c12099b](https://github.com/ashleycaselli/md-generator/commit/c12099bba51a1928916a678d71934d95ada3065d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.54 ([b861316](https://github.com/ashleycaselli/md-generator/commit/b8613165d9d92aee50658f7da13b7db31734ead2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.55 ([ce31f24](https://github.com/ashleycaselli/md-generator/commit/ce31f249cc27d52e86dfa66011be31fa169671c1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.56 ([3afeece](https://github.com/ashleycaselli/md-generator/commit/3afeeceef4f65ba1d716f527885c7da0faf9974e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.58 ([d32e26b](https://github.com/ashleycaselli/md-generator/commit/d32e26bc403e618ad9170d0359a6f75560c192b0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.59 ([df8b031](https://github.com/ashleycaselli/md-generator/commit/df8b0317c2dfd46681b8892df7b08cad849c556c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.68 ([b1247a0](https://github.com/ashleycaselli/md-generator/commit/b1247a016b14b8068c02d6cc0dca9ec8db6a4220))
+* **deps:** update docker/login-action action to v3 ([11787d0](https://github.com/ashleycaselli/md-generator/commit/11787d056aae59f47339d60331bfdf15e00f0022))
+* **deps:** update node.js to 18.18 ([7cd01c7](https://github.com/ashleycaselli/md-generator/commit/7cd01c7442618c1798ff80c3a32d4638bc647816))
+
 ## [1.0.17](https://github.com/ashleycaselli/md-generator/compare/1.0.16...1.0.17) (2023-09-07)
 
 
