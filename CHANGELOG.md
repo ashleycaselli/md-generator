@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/ashleycaselli/md-generator/compare/1.0.18...1.0.19) (2023-10-03)
+
+
+### Dependency updates
+
+* **core-deps:** update python docker tag to v3.12 ([15f6636](https://github.com/ashleycaselli/md-generator/commit/15f6636f457880659152efca01c73d680e82dae0))
+
 ## [1.0.18](https://github.com/ashleycaselli/md-generator/compare/1.0.17...1.0.18) (2023-10-01)
 
 
