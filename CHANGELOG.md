@@ -1,3 +1,19 @@
+## [1.0.20](https://github.com/ashleycaselli/md-generator/compare/1.0.19...1.0.20) (2023-10-25)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v7.4.3 ([74d22c2](https://github.com/ashleycaselli/md-generator/commit/74d22c2ea9a9292603874051fc0449966821a03d))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to b4ffde6 ([a782504](https://github.com/ashleycaselli/md-generator/commit/a7825049910f779bce51ac1c8b377de2c70198fd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.69 ([3ddefd3](https://github.com/ashleycaselli/md-generator/commit/3ddefd38c90a4b8d2b61ece118086ca5b7b9f35b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.70 ([0296416](https://github.com/ashleycaselli/md-generator/commit/029641691bfaad6fab1d585e50a11719cb6b2e0d))
+* **deps:** update node.js to 20.9 ([398cd30](https://github.com/ashleycaselli/md-generator/commit/398cd301c783224627ef3e6fba4a747db7873503))
+* **deps:** update node.js to v20 ([58411dd](https://github.com/ashleycaselli/md-generator/commit/58411dd35850ab06bd4e530bdea74dfde3440be9))
+
 ## [1.0.19](https://github.com/ashleycaselli/md-generator/compare/1.0.18...1.0.19) (2023-10-03)
 
 
