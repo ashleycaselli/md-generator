@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/ashleycaselli/md-generator/compare/1.0.20...1.0.21) (2023-10-26)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency pandas to v2.1.2 ([e5c9b6d](https://github.com/ashleycaselli/md-generator/commit/e5c9b6d30b0959392393a06cff75b6401e195ce5))
+
 ## [1.0.20](https://github.com/ashleycaselli/md-generator/compare/1.0.19...1.0.20) (2023-10-25)
 
 
