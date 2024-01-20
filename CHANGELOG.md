@@ -1,3 +1,20 @@
+## [1.0.25](https://github.com/ashleycaselli/md-generator/compare/1.0.24...1.0.25) (2024-01-20)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency pandas to v2.2.0 ([737150f](https://github.com/ashleycaselli/md-generator/commit/737150f397696a1740269b16da02c53b888215fc))
+
+
+### Build and continuous integration
+
+* **deps:** update node.js to 20.11 ([06b2c0c](https://github.com/ashleycaselli/md-generator/commit/06b2c0cb1b40d4e59e24455bba7b3811511c667a))
+
+
+### General maintenance
+
+* **readme:** add semantic-release badge ([73a418a](https://github.com/ashleycaselli/md-generator/commit/73a418a59a0faceb67bc70791b802e8d20da21cb))
+
 ## [1.0.24](https://github.com/ashleycaselli/md-generator/compare/1.0.23...1.0.24) (2023-12-31)
 
 
