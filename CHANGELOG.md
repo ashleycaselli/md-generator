@@ -1,3 +1,10 @@
+## [1.0.26](https://github.com/ashleycaselli/md-generator/compare/1.0.25...1.0.26) (2024-01-23)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency python-dotenv to v1.0.1 ([0271264](https://github.com/ashleycaselli/md-generator/commit/02712648b525c3b51100a3d8bedc01aaddfac442))
+
 ## [1.0.25](https://github.com/ashleycaselli/md-generator/compare/1.0.24...1.0.25) (2024-01-20)
 
 
