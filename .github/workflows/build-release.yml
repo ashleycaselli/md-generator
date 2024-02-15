@@ -41,8 +41,11 @@ jobs:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      -
-        name: Release
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.11
+      - name: Release
         run: |
           npm ci
           npx semantic-release
