@@ -12,6 +12,7 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  POETRY_VERSION: 1.5.1
 
 jobs:
   build:
@@ -27,7 +28,7 @@ jobs:
         name: Install Poetry
         uses: snok/install-poetry@v1
         with:
-          version: 1.5.1
+          version: ${{ env.POETRY_VERSION }}
       -
         name: Install dependencies
         run: poetry install
