@@ -1,3 +1,18 @@
+## [1.0.28](https://github.com/ashleycaselli/md-generator/compare/1.0.27...1.0.28) (2024-02-16)
+
+
+### Dependency updates
+
+* **core-deps:** update poetry.lock file ([3360b33](https://github.com/ashleycaselli/md-generator/commit/3360b33a8ceb089f3cbfeffd597b8d7c8634ad3a))
+
+
+### Build and continuous integration
+
+* add poetry_version as env var ([f18cc78](https://github.com/ashleycaselli/md-generator/commit/f18cc786cbd1fcc7f6180a5015c052d90414ce95))
+* **dockerfile:** update deprecated poetry command with current one ([3f54fd5](https://github.com/ashleycaselli/md-generator/commit/3f54fd52d7fdef29e7aa626bcb23121c7aece92c))
+* **dockerfile:** use poetry_version env var as build argument ([fada919](https://github.com/ashleycaselli/md-generator/commit/fada919c00e1d73a31b1dff14740b7f2d85f5c1a))
+* set node version to the required one ([473cbe2](https://github.com/ashleycaselli/md-generator/commit/473cbe2d53b5795b8274bc09ad2ccf3bdc945631))
+
 ## [1.0.27](https://github.com/ashleycaselli/md-generator/compare/1.0.26...1.0.27) (2024-01-28)
 
 
