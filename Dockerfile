@@ -2,9 +2,9 @@ FROM python:3.12-slim
 
 LABEL Maintainer="ashleycaselli"
 
-ENV POETRY_VERSION=1.0.0
+ARG poetry_version
 
-RUN pip3 install "poetry==$POETRY_VERSION"
+RUN pip3 install "poetry==$poetry_version"
 
 WORKDIR /app
 COPY pyproject.toml poetry.lock /app/
