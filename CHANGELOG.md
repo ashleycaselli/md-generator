@@ -1,3 +1,10 @@
+## [1.0.31](https://github.com/ashleycaselli/md-generator/compare/1.0.30...1.0.31) (2024-02-25)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v8.0.2 ([756358e](https://github.com/ashleycaselli/md-generator/commit/756358ece7ead854709de64a2d0a2331dc6b47e9))
+
 ## [1.0.30](https://github.com/ashleycaselli/md-generator/compare/1.0.29...1.0.30) (2024-02-23)
 
 
