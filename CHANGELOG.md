@@ -1,3 +1,15 @@
+## [1.0.34](https://github.com/ashleycaselli/md-generator/compare/1.0.33...1.0.34) (2024-04-10)
+
+
+### Bug Fixes
+
+* **core-deps:** update dependency pandas to v2.2.2 ([21ed6ce](https://github.com/ashleycaselli/md-generator/commit/21ed6cef217381808885c5d8986918d7513426fd))
+
+
+### Build and continuous integration
+
+* **deps:** update node.js to 20.12 ([74d6c1f](https://github.com/ashleycaselli/md-generator/commit/74d6c1f40d43cea07c85c4e8aa86406804326356))
+
 ## [1.0.33](https://github.com/ashleycaselli/md-generator/compare/1.0.32...1.0.33) (2024-03-09)
 
 
