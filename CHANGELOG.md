@@ -1,3 +1,16 @@
+## [1.0.37](https://github.com/ashleycaselli/md-generator/compare/1.0.36...1.0.37) (2024-05-20)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v8.2.1 ([3a83327](https://github.com/ashleycaselli/md-generator/commit/3a83327ea85579ffac2b38b2152ef30c7a1793c8))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to 44c2b7a ([36f08b0](https://github.com/ashleycaselli/md-generator/commit/36f08b0733184130d0864705f02cb2d697c55155))
+* **deps:** update node.js to 20.13 ([6e6904d](https://github.com/ashleycaselli/md-generator/commit/6e6904db30bc56e5d3add5adcd58938d64621f8c))
+
 ## [1.0.36](https://github.com/ashleycaselli/md-generator/compare/1.0.35...1.0.36) (2024-04-28)
 
 
