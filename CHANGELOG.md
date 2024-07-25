@@ -1,3 +1,14 @@
+## [1.0.40](https://github.com/ashleycaselli/md-generator/compare/1.0.39...1.0.40) (2024-07-25)
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v8.3.2 ([315df61](https://github.com/ashleycaselli/md-generator/commit/315df614c03890bb9f6943e767c0924d2aaa3f34))
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.92 ([ee33459](https://github.com/ashleycaselli/md-generator/commit/ee33459381d135b9a07bd3135efe97bb1eb1c869))
+* **deps:** update node.js to 20.16 ([8bcee92](https://github.com/ashleycaselli/md-generator/commit/8bcee92762ab169acff3c59fc7fd407a4405e2ca))
+
 ## [1.0.39](https://github.com/ashleycaselli/md-generator/compare/1.0.38...1.0.39) (2024-07-20)
 
 ### Dependency updates
