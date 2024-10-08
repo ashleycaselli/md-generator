@@ -1,3 +1,18 @@
+## [1.0.43](https://github.com/ashleycaselli/md-generator/compare/1.0.42...1.0.43) (2024-10-08)
+
+### Dependency updates
+
+* **core-deps:** update python docker tag to v3.13 ([a7ce5aa](https://github.com/ashleycaselli/md-generator/commit/a7ce5aadf85d894e5ced4568dc5495a528ea3c25))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to eef6144 ([00ca978](https://github.com/ashleycaselli/md-generator/commit/00ca9786da3b89ea25c0e1449d87f593ea236843))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.108 ([38676a0](https://github.com/ashleycaselli/md-generator/commit/38676a008aef1c4c6d750a64cfd9a5e1d45df3c0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.109 ([28cf6f3](https://github.com/ashleycaselli/md-generator/commit/28cf6f36a0372606c8bf0d10004668cec626a034))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.110 ([c8eb9cf](https://github.com/ashleycaselli/md-generator/commit/c8eb9cf9b5195067d32cdb9c5c6f949abaa20df0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.111 ([916c13b](https://github.com/ashleycaselli/md-generator/commit/916c13b6fc82f576d4dcd0d646d7a513984540b4))
+* **deps:** update node.js to 20.18 ([918a26b](https://github.com/ashleycaselli/md-generator/commit/918a26b155dcf8634176605521bf125b2e7562bf))
+
 ## [1.0.42](https://github.com/ashleycaselli/md-generator/compare/1.0.41...1.0.42) (2024-09-20)
 
 ### Bug Fixes
