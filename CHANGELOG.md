@@ -1,3 +1,18 @@
+## [1.0.44](https://github.com/ashleycaselli/md-generator/compare/1.0.43...1.0.44) (2024-12-01)
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v8.3.4 ([#171](https://github.com/ashleycaselli/md-generator/issues/171)) ([72d488a](https://github.com/ashleycaselli/md-generator/commit/72d488a2e74b9747a7a2dfcd100b2e5527fb4a7b))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to 11bd719 ([fa2b5df](https://github.com/ashleycaselli/md-generator/commit/fa2b5dfc8c79cdf9f196a6f7166eda36424027e2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.112 ([b9c1348](https://github.com/ashleycaselli/md-generator/commit/b9c1348b85e13d292c648ce12d7ff3705fb6c3e7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.113 ([a979e01](https://github.com/ashleycaselli/md-generator/commit/a979e010caf05700e417e999112dac66839c36b3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.114 ([147670b](https://github.com/ashleycaselli/md-generator/commit/147670bc12f6789322318225380287354f6b15a2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.115 ([#170](https://github.com/ashleycaselli/md-generator/issues/170)) ([4e595e7](https://github.com/ashleycaselli/md-generator/commit/4e595e7287936fb0f940aef440369a8030ef92d0))
+* **deps:** update node.js to v22 ([4a001ab](https://github.com/ashleycaselli/md-generator/commit/4a001abc46f9d2eb4d33fb27fdf34cef90aafe19))
+
 ## [1.0.43](https://github.com/ashleycaselli/md-generator/compare/1.0.42...1.0.43) (2024-10-08)
 
 ### Dependency updates
