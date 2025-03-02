@@ -1,3 +1,30 @@
+## [1.0.45](https://github.com/ashleycaselli/md-generator/compare/1.0.44...1.0.45) (2025-03-02)
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v8.3.5 ([#186](https://github.com/ashleycaselli/md-generator/issues/186)) ([1d82944](https://github.com/ashleycaselli/md-generator/commit/1d82944866fe1b6ffdb481a8113393a549f4eb25))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.1.0 ([93d1d10](https://github.com/ashleycaselli/md-generator/commit/93d1d107cb357e0d87c73574032b98ce8474584c))
+* **deps:** update actions/setup-node action to v4.2.0 ([#178](https://github.com/ashleycaselli/md-generator/issues/178)) ([f5a9279](https://github.com/ashleycaselli/md-generator/commit/f5a9279f4828a0b6cf46bff80d5fbded6f25817a))
+* **deps:** update actions/setup-python action to v5.3.0 ([2323ad1](https://github.com/ashleycaselli/md-generator/commit/2323ad17779b16f21c57a9c6d6799744592e92a4))
+* **deps:** update actions/setup-python action to v5.4.0 ([#179](https://github.com/ashleycaselli/md-generator/issues/179)) ([d75d441](https://github.com/ashleycaselli/md-generator/commit/d75d4418ec0dbf077642796b1b78e40e5c3816dc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.116 ([#173](https://github.com/ashleycaselli/md-generator/issues/173)) ([b9a550e](https://github.com/ashleycaselli/md-generator/commit/b9a550e442956fa9685b86a889646ace80410bcf))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.117 ([#174](https://github.com/ashleycaselli/md-generator/issues/174)) ([a124ed0](https://github.com/ashleycaselli/md-generator/commit/a124ed0312c861cd5ec4965871697021d70ffd17))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.118 ([#175](https://github.com/ashleycaselli/md-generator/issues/175)) ([42b8b31](https://github.com/ashleycaselli/md-generator/commit/42b8b31d759cdf6837f023751bcc6713fe59d9da))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.119 ([#177](https://github.com/ashleycaselli/md-generator/issues/177)) ([1add62b](https://github.com/ashleycaselli/md-generator/commit/1add62b9c836cb88a8320792dc1b8f382b9a71f8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.121 ([#180](https://github.com/ashleycaselli/md-generator/issues/180)) ([1360e6b](https://github.com/ashleycaselli/md-generator/commit/1360e6b3a513cb09cd01a12e76638e93c0022400))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.122 ([#181](https://github.com/ashleycaselli/md-generator/issues/181)) ([43223be](https://github.com/ashleycaselli/md-generator/commit/43223beeaa3df788e96c42df1d8b62ff303b59ef))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([#183](https://github.com/ashleycaselli/md-generator/issues/183)) ([0b93496](https://github.com/ashleycaselli/md-generator/commit/0b934962dfde3d9e73665d947aa9f660531aa9b5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.124 ([#184](https://github.com/ashleycaselli/md-generator/issues/184)) ([f350258](https://github.com/ashleycaselli/md-generator/commit/f35025863b2b3bec85fc7af0ac8c1cacf3d69b4f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.125 ([#185](https://github.com/ashleycaselli/md-generator/issues/185)) ([d44dd9f](https://github.com/ashleycaselli/md-generator/commit/d44dd9fca9005fe2b3a776b32aa79c1668fcd667))
+* **deps:** update docker/login-action action to v3.3.0 ([3b77983](https://github.com/ashleycaselli/md-generator/commit/3b779838e3ed751b5d954991d760545ed983ded5))
+* **deps:** update node.js to 22.12 ([#172](https://github.com/ashleycaselli/md-generator/issues/172)) ([ba5809a](https://github.com/ashleycaselli/md-generator/commit/ba5809a35bf73345dfaca795341e952fa474e709))
+* **deps:** update node.js to 22.13 ([#176](https://github.com/ashleycaselli/md-generator/issues/176)) ([86d46ca](https://github.com/ashleycaselli/md-generator/commit/86d46ca5cdcaf2ad00443c7d76e9868c4e5752cb))
+* **deps:** update node.js to 22.14 ([#182](https://github.com/ashleycaselli/md-generator/issues/182)) ([2db668d](https://github.com/ashleycaselli/md-generator/commit/2db668d5659c1a22d07e6cb9ea812460de347d4c))
+* **deps:** update snok/install-poetry action to v1.4.1 ([ae2086a](https://github.com/ashleycaselli/md-generator/commit/ae2086aa360ed5e87fb6168a8d62ea29480159ee))
+
 ## [1.0.44](https://github.com/ashleycaselli/md-generator/compare/1.0.43...1.0.44) (2024-12-01)
 
 ### Dependency updates
