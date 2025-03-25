@@ -1,3 +1,15 @@
+## [1.0.46](https://github.com/ashleycaselli/md-generator/compare/1.0.45...1.0.46) (2025-03-25)
+
+### Dependency updates
+
+* **core-deps:** update dependency python-dotenv to v1.1.0 ([#191](https://github.com/ashleycaselli/md-generator/issues/191)) ([4d3e6e0](https://github.com/ashleycaselli/md-generator/commit/4d3e6e0ec5f4fe1ddb98ec9f98c9c27300033c53))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.3.0 ([#189](https://github.com/ashleycaselli/md-generator/issues/189)) ([d500914](https://github.com/ashleycaselli/md-generator/commit/d50091497b0f6b18ac53347cd3f16a927fc089cb))
+* **deps:** update actions/setup-python action to v5.5.0 ([#190](https://github.com/ashleycaselli/md-generator/issues/190)) ([bca2337](https://github.com/ashleycaselli/md-generator/commit/bca2337f5b177ae71252304efb16a676b5790a7f))
+* **deps:** update docker/login-action action to v3.4.0 ([#188](https://github.com/ashleycaselli/md-generator/issues/188)) ([e8438b2](https://github.com/ashleycaselli/md-generator/commit/e8438b24e60d2fc324a788bd6c2bf1bdc207643d))
+
 ## [1.0.45](https://github.com/ashleycaselli/md-generator/compare/1.0.44...1.0.45) (2025-03-02)
 
 ### Dependency updates
