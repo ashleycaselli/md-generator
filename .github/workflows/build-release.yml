@@ -23,7 +23,7 @@ jobs:
         name: Set up Python 3.10
         uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
-          python-version: "3.10"
+          python-version: "3.13"
       -
         name: Install Poetry
         uses: snok/install-poetry@76e04a911780d5b312d89783f7b1cd627778900a # v1.4.1
