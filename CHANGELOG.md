@@ -1,3 +1,9 @@
+## [1.0.50](https://github.com/ashleycaselli/md-generator/compare/1.0.49...1.0.50) (2025-06-21)
+
+### Dependency updates
+
+* **core-deps:** update dependency pybtex to ^0.25.0 ([#206](https://github.com/ashleycaselli/md-generator/issues/206)) ([cd2675e](https://github.com/ashleycaselli/md-generator/commit/cd2675eee6409dae225109ae8d81db4541745499))
+
 ## [1.0.49](https://github.com/ashleycaselli/md-generator/compare/1.0.48...1.0.49) (2025-06-18)
 
 ### Dependency updates
