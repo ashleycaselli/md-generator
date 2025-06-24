@@ -1,3 +1,13 @@
+## [1.0.51](https://github.com/ashleycaselli/md-generator/compare/1.0.50...1.0.51) (2025-06-24)
+
+### Dependency updates
+
+* **core-deps:** update dependency python-dotenv to v1.1.1 ([#207](https://github.com/ashleycaselli/md-generator/issues/207)) ([c99581a](https://github.com/ashleycaselli/md-generator/commit/c99581a66720bc13d209ac350b1636dd18b374d3))
+
+### Build and continuous integration
+
+* **deps:** update dependency python to 3.13 ([#187](https://github.com/ashleycaselli/md-generator/issues/187)) ([9647621](https://github.com/ashleycaselli/md-generator/commit/96476214a5385cdb44eb4041bb0877e1f4442cf9))
+
 ## [1.0.50](https://github.com/ashleycaselli/md-generator/compare/1.0.49...1.0.50) (2025-06-21)
 
 ### Dependency updates
