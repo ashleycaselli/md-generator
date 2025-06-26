@@ -1,3 +1,13 @@
+## [1.0.52](https://github.com/ashleycaselli/md-generator/compare/1.0.51...1.0.52) (2025-06-26)
+
+### Dependency updates
+
+* **core-deps:** update dependency pybtex to v0.25.1 ([#209](https://github.com/ashleycaselli/md-generator/issues/209)) ([b7ac661](https://github.com/ashleycaselli/md-generator/commit/b7ac6610315ce808dae953812b86fb4442dadfa7))
+
+### Build and continuous integration
+
+* **deps:** update node.js to 22.17 ([#208](https://github.com/ashleycaselli/md-generator/issues/208)) ([0accd1f](https://github.com/ashleycaselli/md-generator/commit/0accd1f9ea5e030f4c90ec8d93155cfb9112dab4))
+
 ## [1.0.51](https://github.com/ashleycaselli/md-generator/compare/1.0.50...1.0.51) (2025-06-24)
 
 ### Dependency updates
