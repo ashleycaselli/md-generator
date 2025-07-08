@@ -1,3 +1,15 @@
+## [1.0.53](https://github.com/ashleycaselli/md-generator/compare/1.0.52...1.0.53) (2025-07-08)
+
+### Dependency updates
+
+* **core-deps:** update dependency pandas to v2.3.1 ([#213](https://github.com/ashleycaselli/md-generator/issues/213)) ([27e0364](https://github.com/ashleycaselli/md-generator/commit/27e0364ca324887cc7eb1e8680b6c059adab54e6))
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.134 ([#210](https://github.com/ashleycaselli/md-generator/issues/210)) ([09181df](https://github.com/ashleycaselli/md-generator/commit/09181df0a9ee584e8069c6d628c3bb3e08a7320a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.135 ([#211](https://github.com/ashleycaselli/md-generator/issues/211)) ([9403def](https://github.com/ashleycaselli/md-generator/commit/9403def29edeb2e895ae95f3b35d645855b5686e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.136 ([#212](https://github.com/ashleycaselli/md-generator/issues/212)) ([6803a9b](https://github.com/ashleycaselli/md-generator/commit/6803a9bd7161a279d98bc9d9203d2dde5c7c0af0))
+
 ## [1.0.52](https://github.com/ashleycaselli/md-generator/compare/1.0.51...1.0.52) (2025-06-26)
 
 ### Dependency updates
