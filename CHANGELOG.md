@@ -1,3 +1,18 @@
+## [1.0.56](https://github.com/ashleycaselli/md-generator/compare/1.0.55...1.0.56) (2025-09-30)
+
+### Dependency updates
+
+* **core-deps:** update dependency pandas to v2.3.3 ([#237](https://github.com/ashleycaselli/md-generator/issues/237)) ([cf4e93c](https://github.com/ashleycaselli/md-generator/commit/cf4e93cadf5ae8a58a6ce574d550ec2e803228b8))
+
+### Build and continuous integration
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.143 ([#231](https://github.com/ashleycaselli/md-generator/issues/231)) ([94db03d](https://github.com/ashleycaselli/md-generator/commit/94db03d8225848f94427500b4e44d34b7baf91fb))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.145 ([#232](https://github.com/ashleycaselli/md-generator/issues/232)) ([cde8575](https://github.com/ashleycaselli/md-generator/commit/cde8575521f5ef3dfa2cbdcfb9aaa67dd73b7529))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.146 ([#233](https://github.com/ashleycaselli/md-generator/issues/233)) ([1b8eeae](https://github.com/ashleycaselli/md-generator/commit/1b8eeae69fc7042f526b0f2b1f1a7a8d1c9adb63))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.147 ([#235](https://github.com/ashleycaselli/md-generator/issues/235)) ([661ef39](https://github.com/ashleycaselli/md-generator/commit/661ef390ded8ce6086c3596ba97d621e294666e1))
+* **deps:** update docker/login-action action to v3.6.0 ([#236](https://github.com/ashleycaselli/md-generator/issues/236)) ([86c48ea](https://github.com/ashleycaselli/md-generator/commit/86c48ea5ff7d79605fc13ca194d42ee542473485))
+* **deps:** update node.js to 22.20 ([#234](https://github.com/ashleycaselli/md-generator/issues/234)) ([b006dbd](https://github.com/ashleycaselli/md-generator/commit/b006dbd285d2afdd1e21dc1f52b08fa657a81134))
+
 ## [1.0.55](https://github.com/ashleycaselli/md-generator/compare/1.0.54...1.0.55) (2025-09-08)
 
 ### Dependency updates
