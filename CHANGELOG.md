@@ -1,3 +1,9 @@
+## [1.0.57](https://github.com/ashleycaselli/md-generator/compare/1.0.56...1.0.57) (2025-10-08)
+
+### Dependency updates
+
+* **core-deps:** update python docker tag to v3.14 ([#239](https://github.com/ashleycaselli/md-generator/issues/239)) ([e89d950](https://github.com/ashleycaselli/md-generator/commit/e89d9508065a89796469888a851eaa9070e138c1))
+
 ## [1.0.56](https://github.com/ashleycaselli/md-generator/compare/1.0.55...1.0.56) (2025-09-30)
 
 ### Dependency updates
