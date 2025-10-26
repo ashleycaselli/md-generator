@@ -1,3 +1,19 @@
+## [1.0.58](https://github.com/ashleycaselli/md-generator/compare/1.0.57...1.0.58) (2025-10-26)
+
+### Dependency updates
+
+* **core-deps:** update dependency python-dotenv to v1.2.1 ([#246](https://github.com/ashleycaselli/md-generator/issues/246)) ([b45aa03](https://github.com/ashleycaselli/md-generator/commit/b45aa03c232a1037cdbb061063653c4163233b44))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6 ([#240](https://github.com/ashleycaselli/md-generator/issues/240)) ([7682e8c](https://github.com/ashleycaselli/md-generator/commit/7682e8c8bfdabd394a7de1595d0092fe39b2abe3))
+* **deps:** update dependency python to 3.14 ([#238](https://github.com/ashleycaselli/md-generator/issues/238)) ([3631dd5](https://github.com/ashleycaselli/md-generator/commit/3631dd5ac9560b152232115131e7231fbea34268))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.148 ([#241](https://github.com/ashleycaselli/md-generator/issues/241)) ([f0cc8fc](https://github.com/ashleycaselli/md-generator/commit/f0cc8fcd41e67ec32e1e12fd8dcc6330a2ffb865))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.149 ([#242](https://github.com/ashleycaselli/md-generator/issues/242)) ([3b18dca](https://github.com/ashleycaselli/md-generator/commit/3b18dca2b78c09614f6dc8c900ec95ce6c9d441d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.150 ([#244](https://github.com/ashleycaselli/md-generator/issues/244)) ([8c0ae00](https://github.com/ashleycaselli/md-generator/commit/8c0ae003390d94f3568d7fd3e4646eee97a142fc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.152 ([#245](https://github.com/ashleycaselli/md-generator/issues/245)) ([42f6509](https://github.com/ashleycaselli/md-generator/commit/42f65097d0a181b83bc67ce674539af9205c4102))
+* **deps:** update node.js to 22.21 ([#243](https://github.com/ashleycaselli/md-generator/issues/243)) ([2b7f097](https://github.com/ashleycaselli/md-generator/commit/2b7f09716371d495cf40350d79f6a7dc1fca5ab5))
+
 ## [1.0.57](https://github.com/ashleycaselli/md-generator/compare/1.0.56...1.0.57) (2025-10-08)
 
 ### Dependency updates
