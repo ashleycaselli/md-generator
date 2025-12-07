@@ -1,3 +1,18 @@
+## [1.0.61](https://github.com/ashleycaselli/md-generator/compare/1.0.60...1.0.61) (2025-12-07)
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v9.0.2 ([#260](https://github.com/ashleycaselli/md-generator/issues/260)) ([23306c1](https://github.com/ashleycaselli/md-generator/commit/23306c1a64b80e10c769dc2bc7a8a893b14c7f1c))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v6 ([#256](https://github.com/ashleycaselli/md-generator/issues/256)) ([64d48a5](https://github.com/ashleycaselli/md-generator/commit/64d48a56dec8c9b7ade460428106d2b80944b560))
+* **deps:** update actions/checkout digest to 8e8c483 ([#258](https://github.com/ashleycaselli/md-generator/issues/258)) ([44f83d0](https://github.com/ashleycaselli/md-generator/commit/44f83d04fcceef2af2d5ae3086694374d54b4051))
+* **deps:** update actions/checkout digest to 93cb6ef ([#254](https://github.com/ashleycaselli/md-generator/issues/254)) ([5ba7252](https://github.com/ashleycaselli/md-generator/commit/5ba72529ca8b8a5d37ddcc211e1b8ce323c253d1))
+* **deps:** update actions/setup-node action to v6.1.0 ([#259](https://github.com/ashleycaselli/md-generator/issues/259)) ([49bbe23](https://github.com/ashleycaselli/md-generator/commit/49bbe23a42c212a4e71442d1ef4b30ce054d8feb))
+* **deps:** update actions/setup-python action to v6.1.0 ([#257](https://github.com/ashleycaselli/md-generator/issues/257)) ([d3e0da0](https://github.com/ashleycaselli/md-generator/commit/d3e0da0dfe67b9e82f23d185ceb6ef4c0a64a15a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.157 ([#255](https://github.com/ashleycaselli/md-generator/issues/255)) ([0cbaca7](https://github.com/ashleycaselli/md-generator/commit/0cbaca7bc00e4160a74c26bf0ca33ffde2d59acb))
+
 ## [1.0.60](https://github.com/ashleycaselli/md-generator/compare/1.0.59...1.0.60) (2025-11-12)
 
 ### Dependency updates
