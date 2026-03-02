@@ -1,3 +1,22 @@
+## [1.0.62](https://github.com/ashleycaselli/md-generator/compare/1.0.61...1.0.62) (2026-03-02)
+
+### Dependency updates
+
+* **core-deps:** update dependency python-dotenv to v1.2.2 ([#272](https://github.com/ashleycaselli/md-generator/issues/272)) ([7ab31cb](https://github.com/ashleycaselli/md-generator/commit/7ab31cbb9e8152ad6c295491994f00e902646294))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to de0fac2 ([#269](https://github.com/ashleycaselli/md-generator/issues/269)) ([9757f44](https://github.com/ashleycaselli/md-generator/commit/9757f44aa168e0e51ebd4e8aa230ba36fc6c2e26))
+* **deps:** update actions/setup-node action to v6.2.0 ([#265](https://github.com/ashleycaselli/md-generator/issues/265)) ([ffae319](https://github.com/ashleycaselli/md-generator/commit/ffae3199f282838551b7088cf75c9bb5a00ca050))
+* **deps:** update actions/setup-python action to v6.2.0 ([#267](https://github.com/ashleycaselli/md-generator/issues/267)) ([891e9c8](https://github.com/ashleycaselli/md-generator/commit/891e9c8b521e63f9829b85f38beb7bc07fbeba4c))
+* **deps:** update dependency node to 24.12 ([#262](https://github.com/ashleycaselli/md-generator/issues/262)) ([78938d0](https://github.com/ashleycaselli/md-generator/commit/78938d0c3a965d658d8fb32a8f15e7f45f4d02ba))
+* **deps:** update dependency node to 24.13 ([#264](https://github.com/ashleycaselli/md-generator/issues/264)) ([a501a73](https://github.com/ashleycaselli/md-generator/commit/a501a7374789ce938fa18d674658b65a92519fb7))
+* **deps:** update dependency node to 24.14 ([#271](https://github.com/ashleycaselli/md-generator/issues/271)) ([e89c6ad](https://github.com/ashleycaselli/md-generator/commit/e89c6ad8fc3a653f9280da017f4d45fd24a89f18))
+* **deps:** update docker/login-action action to v3.7.0 ([#268](https://github.com/ashleycaselli/md-generator/issues/268)) ([5995d06](https://github.com/ashleycaselli/md-generator/commit/5995d065a9363d933a9b0bfef45d8163c81bf877))
+* **deps:** update node.js to 24.12 ([#261](https://github.com/ashleycaselli/md-generator/issues/261)) ([619911c](https://github.com/ashleycaselli/md-generator/commit/619911c2807440b77c8f0ae44269542b921944d6))
+* **deps:** update node.js to 24.13 ([#263](https://github.com/ashleycaselli/md-generator/issues/263)) ([ab018d8](https://github.com/ashleycaselli/md-generator/commit/ab018d8be1c2d63775d57de17bd090e4ea0d7ab1))
+* **deps:** update node.js to 24.14 ([#270](https://github.com/ashleycaselli/md-generator/issues/270)) ([47afbeb](https://github.com/ashleycaselli/md-generator/commit/47afbeb87513204f7e45ab955a720eacbf5908bb))
+
 ## [1.0.61](https://github.com/ashleycaselli/md-generator/compare/1.0.60...1.0.61) (2025-12-07)
 
 ### Dependency updates
