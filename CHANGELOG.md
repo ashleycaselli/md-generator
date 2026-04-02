@@ -1,3 +1,14 @@
+## [1.0.63](https://github.com/ashleycaselli/md-generator/compare/1.0.62...1.0.63) (2026-04-02)
+
+### Dependency updates
+
+* **core-deps:** update dependency pybtex to ^0.26.0 ([#275](https://github.com/ashleycaselli/md-generator/issues/275)) ([5142db6](https://github.com/ashleycaselli/md-generator/commit/5142db648b449ec8f53fea1cba4a93a7652b68b0))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.3.0 ([#273](https://github.com/ashleycaselli/md-generator/issues/273)) ([f74c53d](https://github.com/ashleycaselli/md-generator/commit/f74c53d74a3d6e6584cf1a6c415ab0c2970129eb))
+* **deps:** update docker/login-action action to v4 ([#274](https://github.com/ashleycaselli/md-generator/issues/274)) ([46efc1b](https://github.com/ashleycaselli/md-generator/commit/46efc1b77181dfde1e2ba30e051833f3e86b3a50))
+
 ## [1.0.62](https://github.com/ashleycaselli/md-generator/compare/1.0.61...1.0.62) (2026-03-02)
 
 ### Dependency updates
