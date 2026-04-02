@@ -222,22 +222,18 @@ testing = ["pytest", "pytest-benchmark"]
 
 [[package]]
 name = "pybtex"
-version = "0.25.1"
+version = "0.26.0"
 description = "A BibTeX-compatible bibliography processor in Python"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.8"
 files = [
-    {file = "pybtex-0.25.1-py2.py3-none-any.whl", hash = "sha256:9053b0d619409a0a83f38abad5d9921de5f7b3ede00742beafcd9f10ad0d8c5c"},
-    {file = "pybtex-0.25.1.tar.gz", hash = "sha256:9eaf90267c7e83e225af89fea65c370afbf65f458220d3946a9e3049e1eca491"},
+    {file = "pybtex-0.26.0-py3-none-any.whl", hash = "sha256:c28319c4997eca99289615d6e0933323b38e051c6610c1e5d87aa1b172b54ff8"},
+    {file = "pybtex-0.26.0.tar.gz", hash = "sha256:1daf1d769821770ecec85d6596e641a3e470cabf59a5366b5c530ffcdec064f9"},
 ]
 
 [package.dependencies]
 latexcodec = ">=1.0.4"
-PyYAML = ">=3.01"
-
-[package.extras]
-doc = ["sphinx"]
-test = ["pytest"]
+pyyaml = ">=3.01"
 
 [[package]]
 name = "pygments"
@@ -411,4 +407,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "146b594b4c76f79134f290c7a320f6082b758796f3131710ebddfb2432c49b18"
+content-hash = "86bdccd35e0ac40839f94adaaa1e54ff4093ec772234dbfd2d5b08aac9f8b920"
