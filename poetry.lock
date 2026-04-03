@@ -222,13 +222,13 @@ testing = ["pytest", "pytest-benchmark"]
 
 [[package]]
 name = "pybtex"
-version = "0.26.0"
+version = "0.26.1"
 description = "A BibTeX-compatible bibliography processor in Python"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "pybtex-0.26.0-py3-none-any.whl", hash = "sha256:c28319c4997eca99289615d6e0933323b38e051c6610c1e5d87aa1b172b54ff8"},
-    {file = "pybtex-0.26.0.tar.gz", hash = "sha256:1daf1d769821770ecec85d6596e641a3e470cabf59a5366b5c530ffcdec064f9"},
+    {file = "pybtex-0.26.1-py3-none-any.whl", hash = "sha256:e26c0412cc54f5f21b2a6d9d175762a2d2af9ccf3a8f651cdb89ec035db77aa1"},
+    {file = "pybtex-0.26.1.tar.gz", hash = "sha256:2e5543bea424e60e9e42eef70bff597be48649d8f68ba061a7a092b2477d5464"},
 ]
 
 [package.dependencies]
