@@ -1,3 +1,19 @@
+## [1.0.66](https://github.com/ashleycaselli/md-generator/compare/1.0.65...1.0.66) (2026-06-14)
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v9.1.0 ([#286](https://github.com/ashleycaselli/md-generator/issues/286)) ([6782e5d](https://github.com/ashleycaselli/md-generator/commit/6782e5d12397a0a48ec7e767d70c3aef6e04cab3))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to df4cb1c ([#285](https://github.com/ashleycaselli/md-generator/issues/285)) ([6423d9d](https://github.com/ashleycaselli/md-generator/commit/6423d9dc301fa5dfe1f96eac2f4452bf04c3106c))
+* **deps:** update actions/setup-node action to v6.4.0 ([#280](https://github.com/ashleycaselli/md-generator/issues/280)) ([12a5568](https://github.com/ashleycaselli/md-generator/commit/12a55687c60e4e3c027e7d278ec9b12a21185f99))
+* **deps:** update dependency node to 24.16 ([#282](https://github.com/ashleycaselli/md-generator/issues/282)) ([f769fc9](https://github.com/ashleycaselli/md-generator/commit/f769fc9d85951d1ec88bd47e39d3cd73e0e85f19))
+* **deps:** update docker/login-action action to v4.2.0 ([#283](https://github.com/ashleycaselli/md-generator/issues/283)) ([b0295fc](https://github.com/ashleycaselli/md-generator/commit/b0295fc77364731c3f397d973badc37813f91a55))
+* **deps:** update node.js to 24.15 ([#279](https://github.com/ashleycaselli/md-generator/issues/279)) ([fba14f0](https://github.com/ashleycaselli/md-generator/commit/fba14f060e40bc1db6fffb197627d6292d1d05d2))
+* **deps:** update node.js to 24.16 ([#281](https://github.com/ashleycaselli/md-generator/issues/281)) ([f95637c](https://github.com/ashleycaselli/md-generator/commit/f95637c112ad5eaa503d43607b8e8477a89fbab0))
+* **deps:** update snok/install-poetry action to v1.4.2 ([#284](https://github.com/ashleycaselli/md-generator/issues/284)) ([b87cc8d](https://github.com/ashleycaselli/md-generator/commit/b87cc8d45ab7ec01bcc7101e0c791624ef4a7280))
+
 ## [1.0.65](https://github.com/ashleycaselli/md-generator/compare/1.0.64...1.0.65) (2026-04-08)
 
 ### Dependency updates
