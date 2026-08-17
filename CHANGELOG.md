@@ -1,3 +1,26 @@
+## [1.0.68](https://github.com/ashleycaselli/md-generator/compare/1.0.67...1.0.68) (2026-08-17)
+
+### Dependency updates
+
+* **core-deps:** update dependency python-dotenv to v1.2.3 ([#304](https://github.com/ashleycaselli/md-generator/issues/304)) ([ce64a7f](https://github.com/ashleycaselli/md-generator/commit/ce64a7fc76528224a3405572c5f19c515d8fbe07))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout digest to 3d3c42e ([#297](https://github.com/ashleycaselli/md-generator/issues/297)) ([d58b212](https://github.com/ashleycaselli/md-generator/commit/d58b21283b844c0e84e99564422d972c0a1f8c3b))
+* **deps:** update actions/setup-node action to v6.5.0 ([#294](https://github.com/ashleycaselli/md-generator/issues/294)) ([e7b3533](https://github.com/ashleycaselli/md-generator/commit/e7b35336abf4a5677dfe16c208b46c4e7a76f12f))
+* **deps:** update actions/setup-node action to v7 ([#295](https://github.com/ashleycaselli/md-generator/issues/295)) ([be0bd29](https://github.com/ashleycaselli/md-generator/commit/be0bd2989ae7e6197b508ce4db56daf012b0783d))
+* **deps:** update actions/setup-python action to v6.3.0 ([#291](https://github.com/ashleycaselli/md-generator/issues/291)) ([279f776](https://github.com/ashleycaselli/md-generator/commit/279f776ce972c57d32ccbbdf7805c0452b5f79e8))
+* **deps:** update actions/setup-python action to v7 ([#296](https://github.com/ashleycaselli/md-generator/issues/296)) ([d1e0544](https://github.com/ashleycaselli/md-generator/commit/d1e0544a93d9961ae9b8f5aa28b89c1a510fe97c))
+* **deps:** update dependency node to 24.19 ([#303](https://github.com/ashleycaselli/md-generator/issues/303)) ([7f90851](https://github.com/ashleycaselli/md-generator/commit/7f90851769dd612b2b103eeaed287db2bc5dbbb7))
+* **deps:** update docker/login-action action to v4.3.0 ([#292](https://github.com/ashleycaselli/md-generator/issues/292)) ([0f06506](https://github.com/ashleycaselli/md-generator/commit/0f065066f81bd561d497242f77ff0da0c636d645))
+* **deps:** update docker/login-action action to v4.4.0 ([#293](https://github.com/ashleycaselli/md-generator/issues/293)) ([6c1861c](https://github.com/ashleycaselli/md-generator/commit/6c1861cbc8c5ef990a0e3af3bd7251b74066e9c4))
+* **deps:** update docker/login-action action to v4.5.0 ([#298](https://github.com/ashleycaselli/md-generator/issues/298)) ([fa6d1c8](https://github.com/ashleycaselli/md-generator/commit/fa6d1c87a250886bb5a4fa2ed43485a881f5e5d1))
+* **deps:** update docker/login-action action to v4.5.1 ([#299](https://github.com/ashleycaselli/md-generator/issues/299)) ([1ab0365](https://github.com/ashleycaselli/md-generator/commit/1ab03657b6b143c15446036886b0316b74565115))
+* **deps:** update docker/login-action action to v4.5.2 ([#300](https://github.com/ashleycaselli/md-generator/issues/300)) ([1971788](https://github.com/ashleycaselli/md-generator/commit/1971788988c9212c38a9023ee1a72179561110ff))
+* **deps:** update docker/login-action action to v4.6.0 ([#301](https://github.com/ashleycaselli/md-generator/issues/301)) ([5d7e207](https://github.com/ashleycaselli/md-generator/commit/5d7e207baeafd32744a74f40d1b6a73c7d137795))
+* **deps:** update node.js to 24.18 ([#290](https://github.com/ashleycaselli/md-generator/issues/290)) ([b87f5bf](https://github.com/ashleycaselli/md-generator/commit/b87f5bf19432c34c3f69979290b53c763b45dd6a))
+* **deps:** update node.js to 24.19 ([#302](https://github.com/ashleycaselli/md-generator/issues/302)) ([72472f0](https://github.com/ashleycaselli/md-generator/commit/72472f03ccecaf5798917eddbcbf8314484bc532))
+
 ## [1.0.67](https://github.com/ashleycaselli/md-generator/compare/1.0.66...1.0.67) (2026-06-19)
 
 ### Dependency updates
