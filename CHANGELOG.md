@@ -1,3 +1,14 @@
+## [1.0.69](https://github.com/ashleycaselli/md-generator/compare/1.0.68...1.0.69) (2026-10-01)
+
+### Dependency updates
+
+* **core-deps:** update dependency python-dotenv to v1.2.4 ([#307](https://github.com/ashleycaselli/md-generator/issues/307)) ([bf2dd29](https://github.com/ashleycaselli/md-generator/commit/bf2dd293bce466548ce1c700b0964d84d69974e4))
+
+### Build and continuous integration
+
+* **deps:** update node.js to 24.20 ([#305](https://github.com/ashleycaselli/md-generator/issues/305)) ([8a3fd2b](https://github.com/ashleycaselli/md-generator/commit/8a3fd2bc4c189569b03a76b60dde81fb87d95aaf))
+* **deps:** update node.js to 24.21 ([#306](https://github.com/ashleycaselli/md-generator/issues/306)) ([9da1fad](https://github.com/ashleycaselli/md-generator/commit/9da1fad76700681d71d137ad5c06a82fce975f31))
+
 ## [1.0.68](https://github.com/ashleycaselli/md-generator/compare/1.0.67...1.0.68) (2026-08-17)
 
 ### Dependency updates
