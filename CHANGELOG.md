@@ -1,3 +1,14 @@
+## [1.0.70](https://github.com/ashleycaselli/md-generator/compare/1.0.69...1.0.70) (2026-10-13)
+
+### Dependency updates
+
+* **core-deps:** update python docker tag to v3.15 ([#310](https://github.com/ashleycaselli/md-generator/issues/310)) ([2aaae7b](https://github.com/ashleycaselli/md-generator/commit/2aaae7b0c58cf6ff49a4c68b8daea286419a9f5a))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v7.1.0 ([#308](https://github.com/ashleycaselli/md-generator/issues/308)) ([3735136](https://github.com/ashleycaselli/md-generator/commit/3735136441efb427a64401fd8c5e040278cb21d2))
+* **deps:** update dependency python to 3.15 ([#309](https://github.com/ashleycaselli/md-generator/issues/309)) ([28c289d](https://github.com/ashleycaselli/md-generator/commit/28c289d9ceeb001759b9e80ac134f255e058b19f))
+
 ## [1.0.69](https://github.com/ashleycaselli/md-generator/compare/1.0.68...1.0.69) (2026-10-01)
 
 ### Dependency updates
