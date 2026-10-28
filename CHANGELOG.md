@@ -1,3 +1,16 @@
+## [1.0.71](https://github.com/ashleycaselli/md-generator/compare/1.0.70...1.0.71) (2026-10-28)
+
+### Dependency updates
+
+* **core-deps:** update dependency pytest to v9.2.0 ([#315](https://github.com/ashleycaselli/md-generator/issues/315)) ([db992f7](https://github.com/ashleycaselli/md-generator/commit/db992f71e1212013e8ee5a73c997106503574292))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-python action to v7.1.0 ([#313](https://github.com/ashleycaselli/md-generator/issues/313)) ([fbdc8a3](https://github.com/ashleycaselli/md-generator/commit/fbdc8a3e170f1d5b88ae6804ecee25bc317feee6))
+* **deps:** update dependency node to 24.22 ([#312](https://github.com/ashleycaselli/md-generator/issues/312)) ([2d6da44](https://github.com/ashleycaselli/md-generator/commit/2d6da445e031d2aae76a9e639be4eda507424aef))
+* **deps:** update docker/login-action action to v4.7.0 ([#314](https://github.com/ashleycaselli/md-generator/issues/314)) ([f776ed0](https://github.com/ashleycaselli/md-generator/commit/f776ed0b0ff870130047aacd2058af96fbb9ac34))
+* **deps:** update node.js to 24.22 ([#311](https://github.com/ashleycaselli/md-generator/issues/311)) ([89c9a91](https://github.com/ashleycaselli/md-generator/commit/89c9a91fb182d8ed513c3366986d43fdbfc05149))
+
 ## [1.0.70](https://github.com/ashleycaselli/md-generator/compare/1.0.69...1.0.70) (2026-10-13)
 
 ### Dependency updates
